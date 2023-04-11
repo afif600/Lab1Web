@@ -11,4 +11,4 @@
 
 ![Gambar 1](img/example.png)
 
-## Terima Kasih
+## Terima Kasih!!!
